@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ⚒️ I've Used ...  <br>
 Backend  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/spring boot-0567fa?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
 Frontend   
 
 Mobile Application  
