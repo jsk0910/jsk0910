@@ -39,19 +39,19 @@ Here are some ideas to get you started:
 
 <br>  
 I've Used  
----
-Backend
+---  
+Backend  
 
-Frontend
+Frontend  
 
-Mobile Application
+Mobile Application  
 
-Database
+Database  
 
-Server
+Server  
 
-Programming Language
+Programming Language  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=c&logoColor=FFFFFF"/></a>
-3D
+3D  
 
-Others
+Others  
