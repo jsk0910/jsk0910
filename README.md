@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Cooperative Intelligence System for Emergency Patient-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Development Whole System  
 <br>
 *Analysis*
-<br>
+<br>  
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Detectron2-000000?style=for-the-badge&logo=meta&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Video Comperssion
 
 
