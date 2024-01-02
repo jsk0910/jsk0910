@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 ⚒️ I've Used ...  <br>
 Backend  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/spring boot-0567fa?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/spring boot-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
 Frontend   
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/html5-ff4800?style=flat-square&logo=html5&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/css-0040ff?style=flat-square&logo=css&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/javascript-0040ff?style=flat-square&logo=javascript&logoColor=FFFFFF"/></a>&nbsp;  
 Mobile Application  
 
 Database  
@@ -48,7 +48,7 @@ Database
 Server  
 
 Programming Language  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=c&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=csharp&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/python-0567fa?style=flat-square&logo=python&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/java-0567fa?style=flat-square&logo=oracle&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=c&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=csharp&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/python-0567fa?style=flat-square&logo=python&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/java-0567fa?style=flat-square&logo=oracle&logoColor=FFFFFF"/></a>  
 3D  
 
 Others  
