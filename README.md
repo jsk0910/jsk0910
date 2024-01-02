@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 ![SangKtunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
 
 ### 2023 Activation 
---
+---
 *Research & Development* 
 <br>  
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/제 2회 고용노동부 공공데이터 활용 공모전 JobPosting-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Visualization Data  
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DCVC DC from Microsoft-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments the Microsoft DCVC-DC
 
 ### ⚒️ I've Used ...  <br>
---
+---
 Backend  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-04ba2e?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/spring boot-04ba2e?style=flat-square&logo=springboot&logoColor=FFFFFF"/></a>&nbsp;  
 Frontend   
