@@ -32,8 +32,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Cooperative Intelligence System for Emergency Patient-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Development Whole System  
 *Analysis*
 <br>  
-<a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Detectron2-000000?style=for-the-badge&logo=meta&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Video Comperssion
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Video Compression for Machine Reference Software-000000?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Reference Software
+<a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Detectron2-000000?style=for-the-badge&logo=meta&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Video Comperssion  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Video Compression for Machine Reference Software-000000?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for VCM-RS  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DCVC DC from Microsoft-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments the Microsoft DCVC-DC
 
 ### ⚒️ I've Used ...  <br>
