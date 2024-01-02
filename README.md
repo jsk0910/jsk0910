@@ -20,8 +20,12 @@ Here are some ideas to get you started:
 *Research & Development* 
 <br>  
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/제 2회 고용노동부 공공데이터 활용 공모전 JobPosting-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>&nbsp; Visualization Data  
-<a href="https://github.com/jsk0910/DCVC" target="_blank"><img src="https://img.shields.io/badge/DCVC Over VCM-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>  
-<a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Cooperative Intelligence System for Emergency Patient-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>
+<a href="https://github.com/jsk0910/DCVC" target="_blank"><img src="https://img.shields.io/badge/DCVC Over VCM-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a> Change Architecture & Performance Experiments   
+<a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Cooperative Intelligence System for Emergency Patient-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a> Development Whole System  
+<br>  
+*Analysis*
+<br>
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)
