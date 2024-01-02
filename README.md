@@ -1,5 +1,5 @@
-### Hi there 👋  
-This is SangKyun Jeon  
+ 
+### This is SangKyun Jeon  
   
 - 🌱 I’m currently learning ...  
   Video Compression for Machine  
