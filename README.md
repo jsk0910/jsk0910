@@ -1,6 +1,6 @@
  ### This is SangKyun Jeon  
 
-<a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Blog-3238a8?style=flat&logo=blogger&logoColor=FFFFFF"/></a>  
+<a href="https://hiittech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-3238a8?style=flat&logo=blogger&logoColor=FFFFFF"/></a>  
 
 - 🌱 I’m currently learning ...  
   Video Compression for Machine  
