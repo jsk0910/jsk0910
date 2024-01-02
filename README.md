@@ -40,8 +40,8 @@ Here are some ideas to get you started:
 <br>  
 ⚒️ I've Used ...  
 Backend  
-<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;
-Frontend  
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;  
+Frontend   
 
 Mobile Application  
 
