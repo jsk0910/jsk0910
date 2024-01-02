@@ -1,6 +1,6 @@
  ### This is SangKyun Jeon  
 
-<a href="https://hiittech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fa9405?style=flat&logo=blogger&logoColor=FFFFFF"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/sangkyun.jeon@gmail.com-fa6705?style=flat&logo=gmail&logoColor=FFFFFF"/></a>    
+<a href="https://hiittech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fa9405?style=flat&logo=blogger&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/sangkyun.jeon@gmail.com-fa6705?style=flat&logo=gmail&logoColor=FFFFFF"/></a>    
 ---  
 - 🌱 I’m currently learning ...  
   Video Compression for Machine  
@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 
 <br>  
 I've Used  
-------  
+***   
 Backend  
-
+&nbsp;</a><a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodejs&logoColor=FFFFFF"/></a>
 Frontend  
 
 Mobile Application  
