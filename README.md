@@ -1,7 +1,7 @@
  ### This is SangKyun Jeon  
 
 <a href="https://hiittech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fa9405?style=flat&logo=blogger&logoColor=FFFFFF"/></a><a href="" target="_blank"><img src="https://img.shields.io/badge/sangkyun.jeon@gmail.com-fa6705?style=flat&logo=gmail&logoColor=FFFFFF"/></a>    
----
+---  
 - 🌱 I’m currently learning ...  
   Video Compression for Machine  
   Computer Vision  
@@ -36,3 +36,22 @@ Here are some ideas to get you started:
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Detectron2-000000?style=for-the-badge&logo=meta&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Video Comperssion
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Video Compression for Machine Reference Software-000000?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Reference Software
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DCVC DC from Microsoft-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments the Microsoft DCVC-DC
+
+<br>  
+I've Used  
+---
+Backend
+
+Frontend
+
+Mobile Application
+
+Database
+
+Server
+
+Programming Language
+<a href="" target="_blank"><img src="https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=FFFFFF"/></a>
+3D
+
+Others
