@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![SangKtunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
 
 2023 Activation 
 --
@@ -34,6 +35,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Detectron2-000000?style=for-the-badge&logo=meta&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Video Comperssion
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Video Compression for Machine Reference Software-000000?style=for-the-badge&logo=ffmpeg&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Reference Software
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DCVC DC from Microsoft-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments the Microsoft DCVC-DC
-
-
-![SangKtunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)
