@@ -38,10 +38,9 @@ Here are some ideas to get you started:
 <a href="" target="_blank"><img src="https://img.shields.io/badge/DCVC DC from Microsoft-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments the Microsoft DCVC-DC
 
 <br>  
-I've Used  
-***   
+⚒️ I've Used ... 
 Backend  
-&nbsp;</a><a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodejs&logoColor=FFFFFF"/></a>
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Node.JS-0567fa?style=flat-square&logo=nodedotjs&logoColor=FFFFFF"/></a>&nbsp;
 Frontend  
 
 Mobile Application  
