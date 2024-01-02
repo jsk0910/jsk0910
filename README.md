@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 Research & Development 
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/제 2회 고용노동부 공공데이터 활용 공모전 - JobPosting : Visualization Data-000000?style=for-the-badge&logo=github&logoColor=000000"/></a> 
 제 2회 고용노동부 공공데이터 활용 공모전 - JobPosting : Visualization Data  
-<a href="https://github.com/jsk0910/DCVC" target="_blank"><img src="https://img.shields.io/badge/DCVC-DC Over VCM -000000?style=for-the-badge&logo=microsoft&logoColor=000000"/></a> DCVC-DC Over VCM  
+<a href="https://github.com/jsk0910/DCVC" target="_blank"><img src="https://img.shields.io/badge/DCVC-DC Over VCM-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a> DCVC-DC Over VCM  
 Cooperative Intelligence System for Emergency Patient
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)
