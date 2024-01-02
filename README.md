@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 2023년 활동 
 --
 Research & Development   
-<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/제 2회 고용노동부 공공데이터 활용 공모전 JobPosting-000000?style=for-the-badge&logo=github&logoColor=000000"/></a> Visualization Data  
+<a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/제 2회 고용노동부 공공데이터 활용 공모전 JobPosting-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a> Visualization Data  
 <a href="https://github.com/jsk0910/DCVC" target="_blank"><img src="https://img.shields.io/badge/DCVC Over VCM-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>  
 Cooperative Intelligence System for Emergency Patient
 
