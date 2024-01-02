@@ -5,7 +5,7 @@ This is SangKyun Jeon
   Video Compression for Machine  
   Computer Vision  
 - 🔭 I’m currently working on ...  
-  <a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Media For Machine Laboratory, Dong-A University.-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>  
+  <a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Media For Machine Laboratory, 'Dong-A' University.-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>  
 <!--
 **jsk0910/jsk0910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
