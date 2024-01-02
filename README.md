@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/제 2회 고용노동부 공공데이터 활용 공모전 JobPosting-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Visualization Data  
 <a href="https://github.com/jsk0910/DCVC" target="_blank"><img src="https://img.shields.io/badge/DCVC Over VCM-000000?style=for-the-badge&logo=microsoft&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Change Architecture & Performance Experiments   
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Cooperative Intelligence System for Emergency Patient-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Development Whole System  
-<br>  
+<br>
 *Analysis*
 <br>
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Detectron2-000000?style=for-the-badge&logo=meta&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Video Comperssion
