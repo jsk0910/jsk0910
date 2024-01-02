@@ -29,4 +29,5 @@ Here are some ideas to get you started:
 <a href="https://github.com/sga-patient" target="_blank"><img src="https://img.shields.io/badge/Detectron2-000000?style=for-the-badge&logo=meta&logoColor=FFFFFF"/></a>&nbsp;&nbsp; Analysis & Performance Experiments for Video Comperssion
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)
+
+![SangKtunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)
