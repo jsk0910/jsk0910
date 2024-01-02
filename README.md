@@ -47,7 +47,7 @@ Mobile Application
 Database  
 
 Server  
-
+<a href="" target="_blank"><img src="https://img.shields.io/badge/Linux-00ff91?style=flat-square&logo=linux&logoColor=FFFFFF"/></a>&nbsp;  
 Programming Language  
 <a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=c&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=csharp&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/-0567fa?style=flat-square&logo=cplusplus&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/python-0567fa?style=flat-square&logo=python&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/JAVA-ff8c00?style=flat-square&logo=oracle&logoColor=FFFFFF"/></a>  
 3D  
