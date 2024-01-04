@@ -4,10 +4,10 @@
 <a href="https://hiittech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fa9405?style=flat&logo=blogger&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/sangkyun.jeon@gmail.com-fa6705?style=flat&logo=gmail&logoColor=FFFFFF"/></a>  
 </div>  
 <div align="center"><p>  
-- 🌱 I’m currently learning ...  <br>
+ 🌱 I’m currently learning ...  <br>
   Video Compression for Machine  <br>
   Computer Vision  </p>
-- 🔭 I’m currently working on ...  <br>
+ 🔭 I’m currently working on ...  <br>
   <a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Media For Machine Laboratory, DongA University.-3238a8?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a><br></div>  
 
 ![SangKyunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
