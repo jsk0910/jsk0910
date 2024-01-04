@@ -5,10 +5,10 @@
 </div>  
 ---  
 <div align="center"><p>  
-- 🌱 I’m currently learning ...  
-  Video Compression for Machine  
+- 🌱 I’m currently learning ...  <br>
+  Video Compression for Machine  <br>
   Computer Vision  </p>
-- 🔭 I’m currently working on ...  
+- 🔭 I’m currently working on ...  <br>
   <a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Media For Machine Laboratory, DongA University.-3238a8?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a></div>  
 
 ![SangKtunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
