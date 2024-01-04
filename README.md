@@ -1,6 +1,8 @@
  ### This is SangKyun Jeon  
 
+<div align="center">
 <a href="https://hiittech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fa9405?style=flat&logo=blogger&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/sangkyun.jeon@gmail.com-fa6705?style=flat&logo=gmail&logoColor=FFFFFF"/></a>    
+</div>
 ---  
 - 🌱 I’m currently learning ...  
   Video Compression for Machine  
