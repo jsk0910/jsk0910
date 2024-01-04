@@ -3,16 +3,17 @@
 <div align="center">
 <a href="https://hiittech.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-fa9405?style=flat&logo=blogger&logoColor=FFFFFF"/></a>&nbsp;<a href="" target="_blank"><img src="https://img.shields.io/badge/sangkyun.jeon@gmail.com-fa6705?style=flat&logo=gmail&logoColor=FFFFFF"/></a>  
 </div>  
+---
 <div align="center">  
----  
+  
 - 🌱 I’m currently learning ...  
   Video Compression for Machine  
   Computer Vision  
 - 🔭 I’m currently working on ...  
   <a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Media For Machine Laboratory, DongA University.-3238a8?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a></div>  
-
+<div align="center">
 ![SangKtunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
-
+</div>  
 ### 2023 Activation 
 ---
 *Research & Development* 
