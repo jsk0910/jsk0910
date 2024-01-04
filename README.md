@@ -10,9 +10,9 @@
   Computer Vision  </p>
 - 🔭 I’m currently working on ...  
   <a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Media For Machine Laboratory, DongA University.-3238a8?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a></div>  
-<div align="center">
+
 ![SangKtunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
-</div>  
+  
 ### 2023 Activation 
 ---
 *Research & Development* 
