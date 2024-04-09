@@ -12,13 +12,13 @@
 
 ![SangKyunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
 
-### 2024 Activation
-*Research & Paper*
+### 2024 Activation  
+*Research & Paper*  
 KCI - 한국방송미디어공학회
 
-*Development*
+*Development*  
   
-### 2023 Activation 
+### 2023 Activation   
 ---
 *Research & Development* 
 <br>  
