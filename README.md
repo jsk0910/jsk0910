@@ -11,6 +11,12 @@
   <a href="https://github.com/Media-4-Machine-Laboratory" target="_blank"><img src="https://img.shields.io/badge/Media For Machine Laboratory, DongA University.-3238a8?style=for-the-badge&logo=github&logoColor=FFFFFF"/></a><br></div>  
 
 ![SangKyunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
+
+### 2024 Activation
+*Research & Paper*
+KCI - 한국방송미디어공학회
+
+*Development*
   
 ### 2023 Activation 
 ---
