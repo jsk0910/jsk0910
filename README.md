@@ -14,6 +14,8 @@
 
 ### 2024 Activation  
 *Research & Paper*  
+
+<br>
 KCI - 한국방송미디어공학회
 
 *Development*  
