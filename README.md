@@ -15,7 +15,6 @@
 ### 2024 Activation  
 ---
 *Research & Paper*  
-
 <br>
 
 -- 논문지 --  
