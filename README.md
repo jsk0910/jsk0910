@@ -16,14 +16,13 @@
 ---
 *Research & Paper*  
 
--- 논문지 --   
-KCI - E2E 딥러닝 비디오 코덱의 VCM 내부 코덱 적용을 통한 성능 향상에 관한 연구(한국방송미디어공학회 논문지)  
+-- Journal --   
+KCI - E2E 딥러닝 비디오 코덱의 VCM 내부 코덱 적용을 통한 성능 향상에 관한 연구(방송공학회 논문지)  
 
--- 학술대회 --  
+-- Conference --  
 IPIU2024 - End-To-End 딥러닝 기반 비디오 코덱을 이용한 VCM-RS  
 2024년 한국방송미디어공학회 하계학술대회 - End-To-End 딥러닝 기반 코덱을 활용한 FCM 성능 향상  
 
-*Development*  
   
 ### 2023 Activation   
 ---
