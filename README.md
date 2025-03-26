@@ -12,6 +12,12 @@
 
 ![SangKyunJeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsk0910&show_icons=true&theme=vue)  
 
+### 2025 Activation
+---  
+*Research & Paper*  
+
+-- Journal --
+
 ### 2024 Activation  
 ---
 *Research & Paper*  
