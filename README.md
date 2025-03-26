@@ -16,7 +16,10 @@
 ---  
 *Research & Paper*  
 
--- Journal --
+-- Journal --  
+
+-- Conference --  
+2025년 한국통신학회 동계종합학술발표회 - Feature Map 압축률 향상을 위한 딥러닝 기반 Inter Coding 기술 연구
 
 ### 2024 Activation  
 ---
